@@ -1,0 +1,60 @@
+.photoguitar {
+    width: 200px;
+    height: 200px;
+}
+
+.bbutton {
+    color: aqua;
+    background-color: black;
+    border-width: 3px;
+    border-color: aqua;
+}
+
+.button {
+    color: aqua;
+    font-size: large;
+}
+
+.backround {
+    background-color: rgb(156, 156, 156);
+    height: 900px;;
+    width: auto;
+    border-width: 20px;
+    border-color: rgb(255, 238, 0);
+    border-style:groove
+}
+.manu {
+    display:flex;
+    height: auto;
+    width:auto;
+}
+
+.link {
+    color: aqua;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.biotxt {
+    text-align: left;
+    font-weight: bold;
+    color:aqua
+}
+
+.sum {
+    color: aqua;
+    font-size: xx-large;
+}
+
+.split {
+    color:aqua;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.imag {
+    position:absolute;
+    right: 27px;
+}
